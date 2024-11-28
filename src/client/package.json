@@ -20,7 +20,7 @@
     "http-proxy-middleware": "^1.0.1",
     "immer": "^5.3.6",
     "intersection-observer": "^0.7.0",
-    "jszip": "^3.2.2",
+    "jszip": "^3.7.0",
     "localforage": "^1.7.2",
     "ml-savitzky-golay": "^4.1.0",
     "moment": "^2.24.0",
